@@ -1,10 +1,14 @@
-# 01_Galeria_SOL
+# Linguagem de Marcação
+
+## SENAI-LM-01_Galeria_SOL
 
 ![](./Preview/Captura%20de%20Tela%202025-02-24%20às%2010.58.24.png)
 
-Primeira página criada utilizando classes e adicionando imagens.
+Primeira página criada utilizando classes e adicionando imagens, desenvolvido nas aulas de diciplina linguagem de marcação na escola SENAI Jandira.
+
 
 ## Tecnologias
+
 * HTML
 * CSS
 
